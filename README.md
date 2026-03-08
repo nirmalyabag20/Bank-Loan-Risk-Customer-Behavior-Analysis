@@ -11,12 +11,6 @@
 •	Key Insights
 
 •	Tools Used
-
-•	Project Structure
-
-•	How to Run the Project
-
-•	Conclusion
 ________________________________________
 ## Project Overview
 This project analyzes a bank loan dataset to understand borrower behavior, loan characteristics, and factors associated with loan default risk.
